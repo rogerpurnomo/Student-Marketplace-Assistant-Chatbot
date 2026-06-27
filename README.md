@@ -3,6 +3,9 @@
 📹 Demo
 https://youtu.be/Rl53YAH93oE
 
+🤖 Chatbot
+https://cdn.botpress.cloud/webchat/v2.4/shareable.html?configUrl=https://files.bpcontent.cloud/2025/05/16/02/20250516023935-JADKOGA4.json
+
 A chatbot-powered marketplace designed for APU students to safely buy and sell second-hand academic items such as textbooks and electronics within a trusted, student-only environment.
 
 Unlike platforms like Carousell, this system focuses on trust, relevance, and ease of use by guiding users through a chatbot that simplifies listing, searching, and communication.
